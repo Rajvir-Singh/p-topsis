@@ -1,4 +1,4 @@
-# P-TOPSIS 
+# TOPSIS 
 This package is used to find the TOPSIS score and ranking of multiple-component data.
 
 # Installation
